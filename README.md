@@ -20,11 +20,11 @@ Technically we believe in the following principles:
 
 - Good software demands planning, involvement with the business, good practices and learning.
 
-- Code needs to be maintainable, testing and code review are key.
+- Code needs to be maintainable, testing and code review are keys.
 
 - Rhythm of development is better than rapid development.
 
-## Thinking about product
+## Thinking about product.
 
 We believe in the truth ... nature seeks the simplest way and solves problems in the most efficient way.
 
@@ -37,3 +37,10 @@ Building a product follows the same truths, so we believe in Lean, Lean developm
 - Empower the team
 - Build integrity in
 - See the whole
+
+## Jobs:
+Role  | Test
+------------  | -------------
+Backend Developer | --
+Android Developer | --
+IOS Developer | -- 
