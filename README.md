@@ -2,7 +2,7 @@
 # Come to HomeRefill
 ### HomeRefill is your online butler for home essentials.
 
-Come to HomeRefill and be part of a family of technology enthusiasts and a desire to change the world for the better.
+Come to HomeRefill and be a part of a technology-loving family where the desire to change the world is in our DNA.
 
 We know that technologies, concepts and paradigms are in constant transformations, models that have worked well in the past need changes to solve problems of the present and future.
 
