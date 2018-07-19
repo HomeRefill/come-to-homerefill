@@ -39,8 +39,11 @@ Building a product follows the same truths, so we believe in Lean, Lean developm
 - See the whole
 
 ## Jobs:
-Role  | Test
-------------  | -------------
-Backend Developer | [Test](https://github.com/HomeRefill/come-to-homerefill/blob/master/tests/holes-problem/README.md)
-Android Developer | --
-IOS Developer | -- 
+Role  | Job Details | Test
+------------  | ------------- | -------------
+Backend Developer | [Details](-) | [Test](https://github.com/HomeRefill/come-to-homerefill/blob/master/tests/holes-problem/README.md)
+Android Developer | -- | --
+IOS Developer | -- | -- 
+
+To Apply for any Jobs above just do the test and after open a Pull Request to us.
+Good Luck!
