@@ -36,4 +36,4 @@ We have strong culture with product development and we are looking for people wi
 - Be open to learn
 - Be responsible
 
-**To apply for this job** you must send us your resume by the recruitment@homerefill.com.br; subject "Backend developer" or let we know a little about your code skills: [Test](-)
+**To apply for this job** you must send us your resume by the recruitment@homerefill.com.br; subject "Backend developer" or let we know a little about your code skills: [Test](https://github.com/HomeRefill/come-to-homerefill/blob/master/tests/holes-problem/README.md)
