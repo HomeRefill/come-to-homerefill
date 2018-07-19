@@ -42,8 +42,8 @@ Building a product follows the same truths, so we believe in Lean, Lean developm
 Role  | Job Details | Test
 ------------  | ------------- | -------------
 Backend Developer | [Details](https://github.com/HomeRefill/come-to-homerefill/blob/master/jobs/Backend.md) | [Test](https://github.com/HomeRefill/come-to-homerefill/blob/master/tests/holes-problem/README.md)
-Android Developer | -- | --
-IOS Developer | -- | -- 
+Android Developer | [Details](https://github.com/HomeRefill/come-to-homerefill/blob/master/jobs/Android.md) | --
+IOS Developer | [Details](https://github.com/HomeRefill/come-to-homerefill/blob/master/jobs/IOS.md) | -- 
 
 To Apply for any Jobs above just do the test and after open a Pull Request to us.
 Good Luck!
