@@ -27,6 +27,8 @@ We have strong culture with product development and we are looking for people wi
 - Remote work
 - Flexible schedule
 - Unlimited vacation policy (Paid Time Off)
+- Stock options or salary bonuses program
+- Learning environment
 
 ## We will expect you to
 - Self-direct
