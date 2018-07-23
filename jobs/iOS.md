@@ -1,4 +1,4 @@
-## Android Developer
+## iOS Developer
 
 **Job type**: Full-time  
 **Experience level**: Mid-Level, Senior
@@ -13,9 +13,9 @@ We have a strong product development culture and are looking for people with pre
 If you identified with what we do and our way of doing things, let's chat :)
 
 ## We expect you to be comfortable with
-- Java;
-- Kotlin;
-- Android design and development guidelines.
+- Swift;
+- Objetive-C;
+- iOS design and development guidelines.
 
 ## It would be AWESOME if you knew
 - Unit-testing;
@@ -38,4 +38,4 @@ If you identified with what we do and our way of doing things, let's chat :)
 - Stock options or salary bonuses program;
 - Learning environment.
 
-**To apply for this job** please send your resumé to recruitment@homerefill.com.br; subject "Android Developer"
+**To apply for this job** please send your resumé to recruitment@homerefill.com.br; subject "iOS Developer"
