@@ -4,31 +4,38 @@
 **Experience level**: Mid-Level, Senior
 
 ## Job description
-Work focused on planning, setting deadlines based on micro-planning, freedom to decide and implement technical solutions.
+Work focused on collaboration, setting deadlines based on micro-planning and freedom to decide and implement technical solutions.
 
-If you have identified yourself with the way of work summarized above, let's chat and align our goals.
+In addition to that, we work with modern challenges related to micro services, scalability, service-oriented platform architecture and more.
 
-In addition to the above overview, we work with modern challenges related to micro services, scalability, service-oriented platform architecture and more.
+We have a strong product development culture and are looking for people with previous experience in Lean, or who are eager to learn it in practice.
 
-We have strong culture with product development and we are looking for people with Lean experience or who are open to learning this paradigm in practice.
+If you identified with what we do and our way of doing things, let's chat :)
 
-## Technologies you will utilize
-- Java
+## We expect you to be comfortable with
+- Java;
+- Kotlin;
+- Android design and development guidelines.
 
-## Benefits and Compensation
-- Remote work
-- Flexible schedule
-- Unlimited vacation policy (Paid Time Off)
-- Stock options or salary bonuses program
-- Learning environment
+## It would be AWESOME if you knew
+- Unit-testing;
+- TDD;
+- Clean code and architecture;
+- Object-oriented programming best practices.
 
 ## We will expect you to
-- Self-direct
-- Welcome feedback and collaboration
-- Be transparent
-- Be committed
-- Be open to learn
-- Be responsible
+- Self-direct;
+- Welcome feedback and collaboration;
+- Be transparent;
+- Be committed;
+- Be open to learn;
+- Be responsible.
 
-**To apply for this job** you must send us your resume by the recruitment@homerefill.com.br; subject "Android developer"
+## Benefits and Compensation
+- Remote work;
+- Flexible schedule;
+- Unlimited vacation policy (Paid Time Off);
+- Stock options or salary bonuses program;
+- Learning environment.
 
+**To apply for this job** please send your resumé to recruitment@homerefill.com.br; subject "Android Developer"
