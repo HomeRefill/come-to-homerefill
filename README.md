@@ -43,5 +43,5 @@ Backend Developer | [Details](https://github.com/HomeRefill/come-to-homerefill/b
 Android Developer | [Details](https://github.com/HomeRefill/come-to-homerefill/blob/master/jobs/Android.md) | --
 IOS Developer | [Details](https://github.com/HomeRefill/come-to-homerefill/blob/master/jobs/IOS.md) | -- 
 
-To ppply for any of the jobs above just do the test and open a Pull Request to us.
+To apply for any of the jobs above just do the test and open a Pull Request to us.
 Good Luck!
