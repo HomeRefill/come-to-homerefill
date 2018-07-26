@@ -13,29 +13,35 @@ In addition to the above overview, we work with modern challenges related to mic
 We have strong culture with product development and we are looking for people with Lean experience or who are open to learning this paradigm in practice.
 
 ## Technologies you will utilize
-- PHP
-- Ruby
-- NodeJS
-- MongoDB
-- Mysql
-- RabbitMQ
-- ElasticSearch
-- Docker
-- AWS
+- PHP;
+- Ruby;
+- NodeJS;
+- MongoDB;
+- Mysql;
+- RabbitMQ;
+- ElasticSearch;
+- Docker;
+- AWS;
+
+## It would be AWESOME if you knew
+- Unit-testing;
+- TDD;
+- Clean code and architecture;
+- Object-oriented programming best practices.
 
 ## Benefits and Compensation
-- Remote work
-- Flexible schedule
-- Unlimited vacation policy (Paid Time Off)
-- Stock options or salary bonuses program
-- Learning environment
+- Remote work;
+- Flexible schedule;
+- Unlimited vacation policy (Paid Time Off);
+- Stock options or salary bonuses program;
+- Learning environment;
 
 ## We will expect you to
-- Self-direct
-- Welcome feedback and collaboration
-- Be transparent
-- Be committed
-- Be open to learn
-- Be responsible
+- Self-direct;
+- Welcome feedback and collaboration;
+- Be transparent;
+- Be committed;
+- Be open to learn;
+- Be responsible;
 
 **To apply for this job** you must send us your resume by the recruitment@homerefill.com.br; subject "Backend developer" or let we know a little about your code skills: [Test](https://github.com/HomeRefill/come-to-homerefill/blob/master/tests/holes-problem/README.md)
