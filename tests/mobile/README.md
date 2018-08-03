@@ -1,4 +1,4 @@
-# Welcome to basic Android Test!
+# Welcome to basic Mobile Test!
 
 The main purpose of this test is measuring the technical skills and knowledge of Android developers.
 
@@ -51,7 +51,7 @@ Things to keep in mind:
 
 * First of all, it should compile and run without errors.
 
-* Make the tests described on https://developer.android.com/training/testing/fundamentals.
+* Make the tests described on https://developer.android.com/training/testing/fundamentals. (if it was an android application)
 
 * Despite the project simplicity, don't ignore development and architecture best practices. It's expected that code architecture will be structured to support project growth.
 
