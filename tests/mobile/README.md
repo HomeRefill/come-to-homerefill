@@ -1,18 +1,18 @@
-# Welcome to basic Mobile Test!
+# Welcome to our Mobile Development Test!
 
-The main purpose of this test is measuring the technical skills and knowledge of Android developers.
+The purpose of this test is to know a little bit more about how you code, how well you know the platform SDK, general development best practices and software architecture.
 
 ## Project Description
 
-As a mobile engineer you've been tasked with the development of an app for Game lovers. This first version (MVP) of the app will be very simple and limited to only show the list of games by game plataform.
+As a Mobile Developer you've been tasked with the development of an app for game lovers. This first version (MVP) of the app will be very simple and limited to only showing the list of games by plataform and displaying the details of each game on a separate screen.
 
 ## Functional Requirements
 
-The first release of the app will be very limited in scope, but will serve as the foundation for future releases. You're going to develop now basically 2 screens:
+You're going to develop 2 screens:
 
-**Game List** - Where the user will get the plataforms list from the service and change the list according to the selected category.
+**Games List**: The user will be able to choose the desired platform on the top bar, which will then load the list of games on screen. Each game on the list will show an image and a name;
 
-**Game Detail** - Where the user will see some details of the game selected.
+**Game Details**: When selecting a game on the list, the user will be redirected to the game details screen, where the image, name, genre, available platforms and description for that game will be shown.
 
 ![Game List](images/games.png?raw=true "Games List")
 
@@ -20,39 +20,26 @@ The first release of the app will be very limited in scope, but will serve as th
 
 ## Technical Requirements
 
-You should see this project as an opportunity to create an app following modern development best practices, but also feel free to use your own app architecture preferences (coding standards, code organization, third-party libraries, etc).
+Our fictional product is expected to grow fast, so an adaptive solution that responds well to changes is what we want to achieve.
 
 ### API
 
-The API to consumes your app must be IGDB.
+Use the IGDB API to fetch the data to be used in the app:
 https://api.igdb.com/
-You can use a Wrapper or normal usage of API. **The normal usage of API is better to measure your knowledge.**
 
-## Deliverables
-The project source code and dependencies should be made available in Bitbucket, Github or Gitlab as you wish. Here are the steps you should
-follow:
+### Deliverables
 
-1. Create a public repository.
+Please follow the steps below:
 
-2. Create a "development" branch and commit the code to it. Do not push the code to the master branch. 
+1. Create a repository for the source code on BitBucket, GitHub or GitLab;
 
-3. Create a "screenshots" sub-folder and include one screenshot by screen created.
+2. Create a "screenshots" sub-folder and include one screenshot per screen created;
 
-4. Include a README file that describes:
-	* Special build instructions, if any;
-	* List of third-party libraries used and short description of why/how they were used;
-	
-5. Once the work is complete, create a pull request and send us the link.
+3. Include a README file with special build instructions, list of third-party libraries (with a short description of why they were chosen), and any other note about the code you think we should know;
 
-## Notes
+4. Once the work is complete, send us the link to the repo (if it's public), or grant read access to one of our users, depending on the platform:
+	- BitBucket: thiago-valentim
+	- GitHub: valentim
+	- GitLab: marcvit
 
-Remember that you're writing code that will be reviewed, tested. 
-Things to keep in mind:
-
-* First of all, it should compile and run without errors.
-
-* Make the tests described on https://developer.android.com/training/testing/fundamentals. (if it was an android application)
-
-* Despite the project simplicity, don't ignore development and architecture best practices. It's expected that code architecture will be structured to support project growth.
-
-We wish you good luck!
+Good luck, and enjoy! ;)
